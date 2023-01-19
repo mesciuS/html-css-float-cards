@@ -33,3 +33,13 @@ h1 {
     background-color: black;
     color: white;
 }
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.pro-pic {
+    width: 100px;
+}
