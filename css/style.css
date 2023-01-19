@@ -34,6 +34,7 @@ h1 {
     background-color: black;
     color: white;
     margin: 25px;
+    box-shadow: 3px 3px 3px 3px #23222219;
 }
 
 .clearfix::after {
@@ -44,4 +45,26 @@ h1 {
 
 .pro-pic {
     width: 115px;
+}
+
+.nomi {
+    padding-top: 10px;
+    padding-left: 130px;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.prof {
+     padding-top: 15px;
+     padding-bottom: 15px;
+     padding-left: 130px;
+
+}
+
+.mail {
+    padding-left: 130px;
+}
+
+a {
+    color: rgba(13, 181, 237, 0.995)
 }
