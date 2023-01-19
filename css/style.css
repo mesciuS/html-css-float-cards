@@ -23,3 +23,13 @@ h1 {
     font-weight: 900;
     padding-bottom: 30px;
 }
+
+.float-left {
+    float: left
+}
+
+.card {
+    width: 33.3%;
+    background-color: black;
+    color: white;
+}
