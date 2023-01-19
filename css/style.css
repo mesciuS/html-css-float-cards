@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    width: 1000px;
+    width: 1200px;
     margin: 50px auto;
 }
 
@@ -29,9 +29,11 @@ h1 {
 }
 
 .card {
-    width: 33.3%;
+    width: 350px;
+    height: 115px;
     background-color: black;
     color: white;
+    margin: 25px;
 }
 
 .clearfix::after {
@@ -41,5 +43,5 @@ h1 {
 }
 
 .pro-pic {
-    width: 100px;
+    width: 115px;
 }
